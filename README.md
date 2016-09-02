@@ -1,4 +1,4 @@
-# jidelak
+# jidelak # DEVELOPMENT COMPLETED
 
 Jidelak is simple GUI program for autoload excel to website
 
