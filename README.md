@@ -12,4 +12,4 @@ INSTALATION INSTRUCTION
 
 -reportLab
 
--windows staff / ms excel, windows 7
+-windows stuff / ms excel, windows 7
